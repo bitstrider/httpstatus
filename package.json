@@ -1,0 +1,9 @@
+{
+	
+	"name": "httpstatus",
+	"version": "0.0.1",
+	"main": "httpstatus.js",
+	"dependencies": {
+		"request": "^2.0.0"
+	}
+}
